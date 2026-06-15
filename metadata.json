@@ -1,0 +1,6 @@
+{
+  "name": "Clothing Store",
+  "description": "A modern clothing e-commerce app for browsing clothing details, managing carts, customizing styles/sizes, and placing orders.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
